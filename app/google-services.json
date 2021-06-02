@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595255436360",
+    "project_id": "chatsapp-3068b",
+    "storage_bucket": "chatsapp-3068b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595255436360:android:f55a1b182727f86961247d",
+        "android_client_info": {
+          "package_name": "com.unimas.chatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595255436360-vgd5qt51usbf0numpda1lhb17f8sn3em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqLy9Cv7Q854gB-g73106DQOwssm2PNIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595255436360-vgd5qt51usbf0numpda1lhb17f8sn3em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
